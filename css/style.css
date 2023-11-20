@@ -1,0 +1,181 @@
+
+/*Header start*/
+.py-5 {
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    
+}
+.nav-link{
+    color: #8e425c;
+    font-weight: 1000;
+    /* background: #8e425; */
+    /* text-align: left; */
+    font-family: 'Baloo Bhai 2',serif;
+    font-size: 25px;
+}
+.hik{
+    color: #8e425c;
+    text-align: right;
+    position: absolute;
+    right: 180px;
+    top: 235px;
+    
+}
+.nav{
+
+    width: 80%;
+    /* background: #8e425c; */
+    /* border-radius: 55px; */
+    padding: 15px;
+    margin: 35px;
+    /* text-align: center; */
+}
+a.nav-link:hover, a.active {
+    color: #2e0010;
+    font-size: 28px;
+    border-top: #2e0010 solid 2px;
+}
+body{
+    background-color: #f6eacb;
+}
+.img1{
+    background-image: url('/img/background1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    /* opacity: 0.9; */
+}
+.fun{
+    color: #8e425c;
+}
+.img2{
+    background-image: url('/img/BAckground\ 2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.activities{
+    color: #8e425c;
+   
+}
+.activities p{
+    font-size: 18px;
+}
+.img3{
+    background-image: url('/img/background3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+.promo{
+    text-align: right;
+    color: #8e425c;
+}
+.img4{
+    background-image: url('/img/background4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 750px;
+   
+}
+.camp{
+    text-align: left;
+    color: #8e425c;
+}
+.camp h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+.camp h3{
+    font-size: 30px;
+    font-weight: 400;
+}
+.camp h2{
+    font-size: 50px;
+    font-weight: 600;
+}
+.weekend{
+    color: #8e425c;
+}
+.weekend h3{
+    font-weight: 500;
+    font-size: 35px;
+}
+.img5{
+    background-image: url('/img/backgroung5.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+.offer{
+    text-align:right;
+    color: #8e425c;
+}
+.offer h1{
+    font-weight: 500;
+}
+.offer h2{
+    font-weight: 400;
+}
+.offer h3{
+    font-size: 22px;
+    font-weight: 350;
+}
+.form {
+    color: #8e425c;
+}
+.week{
+    color: #8e425c;
+}
+.week h1{
+    font-weight: 500;  
+}
+.week h2{
+    font-weight: 350;
+}
+.img6{
+    background-image: url(/img/background6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.para{
+    color: #8e425c; 
+}
+.para p{
+        font-size: 20px;
+}
+.para1{
+    color: #8e425c; 
+    font-weight: 500;
+}
+.right{
+    color: #8e425c; 
+    text-align: right;
+    font-weight: 500;
+
+}
+.site{
+    color: #8e425c;
+    text-align: right;
+    font-weight: 500;
+    /* display: flex; */
+    
+}
+.img7{
+    /* text-align: right; */
+    text-align: center;
+    /* background-image: url('/img/leafend.png'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    justify-content: center;
+    
+    /* background-size: cover; */
+}
+ .divv{ 
+    display: flex; 
+    justify-content: center;  
+    align-content: center;
+}
